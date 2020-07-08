@@ -1,0 +1,6 @@
+framework module Pods_codemo_Example {
+  umbrella header "Pods-codemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

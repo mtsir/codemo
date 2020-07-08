@@ -1,0 +1,6 @@
+framework module codemo {
+  umbrella header "codemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

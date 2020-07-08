@@ -1,0 +1,6 @@
+framework module Pods_codemo_Tests {
+  umbrella header "Pods-codemo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

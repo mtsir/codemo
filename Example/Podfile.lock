@@ -1,0 +1,16 @@
+PODS:
+  - codemo (0.0.1)
+
+DEPENDENCIES:
+  - codemo (from `../`)
+
+EXTERNAL SOURCES:
+  codemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  codemo: 689a8efa2d26000b89fee4dba7c697c795b3eea4
+
+PODFILE CHECKSUM: 750efcab8e2867caec3c2ce5bf336317dab62d5d
+
+COCOAPODS: 1.9.3
